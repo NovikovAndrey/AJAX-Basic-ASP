@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJAX_Basic_ASP", "AJAX_Basic_ASP\AJAX_Basic_ASP.csproj", "{A069FEC9-117D-4A2B-A35F-64A9EE97B22E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJAX_Basic_ASP2", "AJAX_Basic_ASP2\AJAX_Basic_ASP2.csproj", "{67DE8501-0E5E-4C64-B779-FB05D97347A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A069FEC9-117D-4A2B-A35F-64A9EE97B22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A069FEC9-117D-4A2B-A35F-64A9EE97B22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A069FEC9-117D-4A2B-A35F-64A9EE97B22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DE8501-0E5E-4C64-B779-FB05D97347A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DE8501-0E5E-4C64-B779-FB05D97347A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DE8501-0E5E-4C64-B779-FB05D97347A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DE8501-0E5E-4C64-B779-FB05D97347A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
